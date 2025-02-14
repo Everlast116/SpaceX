@@ -331,6 +331,7 @@ section {
   .section-inner {
     bottom: 75px;
     left: 20px;
+    width: 100%;
 
     h2 {
       font-size: 40px;
